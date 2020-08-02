@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c64b062b4b237847946538c581f4c86, type: 3}
+  m_Name: The Cove of Nightmares
+  m_EditorClassIdentifier: 
+  duration: 175
+  reactionTime: 10
+  dungeonName: The Cove of Nightmares
+  dungeonLevel: 2
+  dungeonAttributes: 000000000100000002000000
+  rewards:
+  - ingredient: {fileID: 11400000, guid: f6227b5743a88c6459eb80301b9b64e4, type: 2}
+    dropChance: 0.1
+    minimumAmount: 30
+    maximumAmount: 45
+  - ingredient: {fileID: 11400000, guid: 1fa0cb1e467d7334bae42b603d87b86f, type: 2}
+    dropChance: 1
+    minimumAmount: 5
+    maximumAmount: 8
+  - ingredient: {fileID: 11400000, guid: 8ec92664a31647a468ad2e2a063b10e9, type: 2}
+    dropChance: 1
+    minimumAmount: 4
+    maximumAmount: 6
+  - ingredient: {fileID: 11400000, guid: 254098a178255c149ba8e04623138720, type: 2}
+    dropChance: 1
+    minimumAmount: 1
+    maximumAmount: 3
+  icon: {fileID: 21300000, guid: 72bc1a490d9889f4caae0ee46a62019d, type: 3}

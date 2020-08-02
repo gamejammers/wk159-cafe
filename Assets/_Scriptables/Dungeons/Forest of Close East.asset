@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c64b062b4b237847946538c581f4c86, type: 3}
+  m_Name: Forest of Close East
+  m_EditorClassIdentifier: 
+  duration: 60
+  reactionTime: 5
+  dungeonName: Forest of Close East
+  dungeonLevel: 0
+  dungeonAttributes: 02000000
+  rewards:
+  - ingredient: {fileID: 11400000, guid: 254098a178255c149ba8e04623138720, type: 2}
+    dropChance: 0.45
+    minimumAmount: 1
+    maximumAmount: 3
+  - ingredient: {fileID: 11400000, guid: 8ec92664a31647a468ad2e2a063b10e9, type: 2}
+    dropChance: 0.47
+    minimumAmount: 2
+    maximumAmount: 4
+  - ingredient: {fileID: 11400000, guid: 1fa0cb1e467d7334bae42b603d87b86f, type: 2}
+    dropChance: 0.41
+    minimumAmount: 5
+    maximumAmount: 7
+  - ingredient: {fileID: 11400000, guid: 9078aeceb996ab84793e91612b176fee, type: 2}
+    dropChance: 0.21
+    minimumAmount: 1
+    maximumAmount: 5
+  - ingredient: {fileID: 11400000, guid: f6227b5743a88c6459eb80301b9b64e4, type: 2}
+    dropChance: 0.19
+    minimumAmount: 2
+    maximumAmount: 7
+  icon: {fileID: 21300000, guid: 8aaf249215a645a4883e921995c9a7a3, type: 3}

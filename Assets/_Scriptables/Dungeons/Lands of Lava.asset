@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c64b062b4b237847946538c581f4c86, type: 3}
+  m_Name: Lands of Lava
+  m_EditorClassIdentifier: 
+  duration: 100
+  reactionTime: 8
+  dungeonName: Lands of Lava
+  dungeonLevel: 1
+  dungeonAttributes: 0000000004000000
+  rewards:
+  - ingredient: {fileID: 11400000, guid: 9078aeceb996ab84793e91612b176fee, type: 2}
+    dropChance: 0.36
+    minimumAmount: 3
+    maximumAmount: 8
+  - ingredient: {fileID: 11400000, guid: 1bcf153e000a77146971fef7a5f0adc9, type: 2}
+    dropChance: 0.33
+    minimumAmount: 3
+    maximumAmount: 8
+  - ingredient: {fileID: 11400000, guid: ddaf93cef2d4e254f8dc428df554dfe6, type: 2}
+    dropChance: 0.51
+    minimumAmount: 3
+    maximumAmount: 8
+  icon: {fileID: 21300000, guid: feb7e3459f6649c468b0948653bd57fa, type: 3}

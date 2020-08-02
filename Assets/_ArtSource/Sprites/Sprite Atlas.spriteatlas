@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0254789a2e2ea864aa5af13db75cccaa, type: 3}
+    - {fileID: 2800000, guid: 87c058c549ac7294d8c346418e872f62, type: 3}
+    - {fileID: 2800000, guid: 596871cf1f546994587697a66051b464, type: 3}
+    - {fileID: 2800000, guid: 5aaaeb29c697866419030e906b80c358, type: 3}
+    - {fileID: 2800000, guid: 8119c709a163c024d827282847a87b96, type: 3}
+    - {fileID: 2800000, guid: 9defee6917ef41d4aa860ee44f2443ae, type: 3}
+    - {fileID: 2800000, guid: 4dd16a4306f7f1d498fd5585fbfd78da, type: 3}
+    - {fileID: 2800000, guid: 64284d4e283a0154cb37676c7fba43c0, type: 3}
+    - {fileID: 2800000, guid: 835ddb4f8483d50488e2a60e56fc75fe, type: 3}
+    - {fileID: 2800000, guid: bfbb68fcf6fe4a74d902cb4e969cf17b, type: 3}
+    - {fileID: 2800000, guid: 944914f6508c5ad4b8a6ca1bb1395a42, type: 3}
+    - {fileID: 2800000, guid: 8aaf249215a645a4883e921995c9a7a3, type: 3}
+    - {fileID: 2800000, guid: 97749daee784593469aad8834f33b2a8, type: 3}
+    - {fileID: 2800000, guid: 02828724c2e4c0c448c011c12fa77086, type: 3}
+    - {fileID: 2800000, guid: b21aefd65e4282849a85c2dfc2c3ebbf, type: 3}
+    - {fileID: 2800000, guid: 0da1dedd4d852f44bada837f82e6b75b, type: 3}
+    - {fileID: 2800000, guid: 5d11872e647f3f7439ba7057e982b99f, type: 3}
+    - {fileID: 2800000, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+    - {fileID: 2800000, guid: 74502141ea70cd945892654701b79fe6, type: 3}
+    - {fileID: 2800000, guid: 16a75d72c0a5b0a40af4f63f606e91e4, type: 3}
+    totalSpriteSurfaceArea: 114922
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 74502141ea70cd945892654701b79fe6, type: 3}
+  - {fileID: 21300000, guid: 16a75d72c0a5b0a40af4f63f606e91e4, type: 3}
+  - {fileID: 21300000, guid: 8aaf249215a645a4883e921995c9a7a3, type: 3}
+  - {fileID: 21300000, guid: 4dd16a4306f7f1d498fd5585fbfd78da, type: 3}
+  - {fileID: 21300000, guid: 02828724c2e4c0c448c011c12fa77086, type: 3}
+  - {fileID: 21300000, guid: 87c058c549ac7294d8c346418e872f62, type: 3}
+  - {fileID: 21300000, guid: b21aefd65e4282849a85c2dfc2c3ebbf, type: 3}
+  - {fileID: 21300000, guid: 944914f6508c5ad4b8a6ca1bb1395a42, type: 3}
+  - {fileID: 21300000, guid: 8119c709a163c024d827282847a87b96, type: 3}
+  - {fileID: 21300000, guid: 5aaaeb29c697866419030e906b80c358, type: 3}
+  - {fileID: -623719785583294725, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: 5745224006665944881, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: 4186748780258600955, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: 6627067025222858233, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: 6144122557708196837, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: -5563527399164301415, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: 2470598098185438734, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: 2887660047200548920, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: -4861016111126048758, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: -627451588354331700, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: -5301269375031497093, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: -8924710937614661055, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: 6292852201319596390, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: -4008205578914619332, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: -8008298378078286777, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: -6593060185544995557, guid: 9fa31a39f33ba67478d67363dd50fa53, type: 3}
+  - {fileID: 21300000, guid: 9defee6917ef41d4aa860ee44f2443ae, type: 3}
+  - {fileID: 21300000, guid: 0254789a2e2ea864aa5af13db75cccaa, type: 3}
+  - {fileID: 21300000, guid: bfbb68fcf6fe4a74d902cb4e969cf17b, type: 3}
+  - {fileID: 21300000, guid: 0da1dedd4d852f44bada837f82e6b75b, type: 3}
+  - {fileID: 21300000, guid: 5d11872e647f3f7439ba7057e982b99f, type: 3}
+  - {fileID: 21300000, guid: 64284d4e283a0154cb37676c7fba43c0, type: 3}
+  - {fileID: 21300000, guid: 97749daee784593469aad8834f33b2a8, type: 3}
+  - {fileID: 21300000, guid: 835ddb4f8483d50488e2a60e56fc75fe, type: 3}
+  - {fileID: 21300000, guid: 596871cf1f546994587697a66051b464, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BasePalette
+  - CafeEnvironment02UV
+  - Forest
+  - Milk
+  - Hipster2
+  - Cheese
+  - Hipster2_Head
+  - Cave
+  - HotPepper
+  - CoffeeBean
+  - AdventurerSet_2
+  - AdventurerSet_3
+  - AdventurerSet_0
+  - AdventurerSet_1
+  - AdventurerSet_6
+  - AdventurerSet_7
+  - AdventurerSet_4
+  - AdventurerSet_5
+  - AdventurerSet_8
+  - AdventurerSet_9
+  - AdventurerSet_11
+  - AdventurerSet_10
+  - AdventurerSet_13
+  - AdventurerSet_12
+  - AdventurerSet_15
+  - AdventurerSet_14
+  - MeatSteak
+  - CeleryStalk
+  - Teabag
+  - HipsterViking
+  - HipsterViking_Head
+  - SnowPea
+  - Mountains
+  - Spinach
+  - CocoaBeans
+  m_Tag: Sprite Atlas
+  m_IsVariant: 0

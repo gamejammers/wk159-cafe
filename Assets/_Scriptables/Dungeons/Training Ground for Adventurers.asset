@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c64b062b4b237847946538c581f4c86, type: 3}
+  m_Name: Training Ground for Adventurers
+  m_EditorClassIdentifier: 
+  duration: 120
+  reactionTime: 10
+  dungeonName: Training Ground for Adventurers
+  dungeonLevel: 0
+  dungeonAttributes: 05000000
+  rewards:
+  - ingredient: {fileID: 11400000, guid: 254098a178255c149ba8e04623138720, type: 2}
+    dropChance: 0.52
+    minimumAmount: 1
+    maximumAmount: 4
+  - ingredient: {fileID: 11400000, guid: ddaf93cef2d4e254f8dc428df554dfe6, type: 2}
+    dropChance: 0.56
+    minimumAmount: 3
+    maximumAmount: 11
+  - ingredient: {fileID: 11400000, guid: 78e73b2241d5fce47848f38c41cf1acd, type: 2}
+    dropChance: 0.35
+    minimumAmount: 3
+    maximumAmount: 10
+  icon: {fileID: 21300000, guid: ad98d3700ca601741a807827c08fe64f, type: 3}

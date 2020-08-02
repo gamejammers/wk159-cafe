@@ -1,0 +1,141 @@
+{
+    "messages":
+    [
+      {
+        "message": "Things are fine today. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Ah, the sweet sound of nothing. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Just another day on the road. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Today, I feel like ordering pizza. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Just another serene evening. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Who forgot to pack the toilet paper? You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Nothing beats being with the boys. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Yeah, safe travel guys! I love peace. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "What a nice weather. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Is this a bird? You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Ahh, I feel sleepy. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Let's eat something. You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Sometimes the best news is no news.  You safely traveled this turn.",
+        "moveCode": 0
+      },
+      {
+        "message": "Ohhh, What is that? Treasureee! You found something.",
+        "moveCode": 1
+      },
+      {
+        "message": "Shiny, shiny! You found something.",
+        "moveCode": 1
+      },
+      {
+        "message": "Seems the toilet papper was in my rack sack the whole time. You found something.",
+        "moveCode": 1
+      },
+      {
+        "message": "Oh, would you look at this? You found something.",
+        "moveCode": 1
+      },
+      {
+        "message": "Shiny, shiny! You found something.",
+        "moveCode": 1
+      },
+      {
+        "message": "Let's hide it before anyone sees! You found something.",
+        "moveCode": 1
+      },
+      {
+        "message": "I am so lucky today! You found something.",
+        "moveCode": 1
+      },
+      {
+        "message": "A lot of gold, yess! You found something",
+        "moveCode": 1
+      },
+      {
+        "message": "Yes, my precious.  It's my birthday!  You discovered some treasure",
+        "moveCode": 1
+      },
+      {
+        "message": "I hope it's not more celery... You discovered some loot!",
+        "moveCode": 1
+      },
+      {
+        "message": "Where does all this celery come from! Who is growing it!",
+        "MoveCode": 1
+      },
+      {
+        "message": "Lets fighttt! You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": "Come here you jerk! You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": "Lets fight thennn! Come here! You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": "Who stole the slice of pizza?! You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": "Looks like w've got ourselve a party. You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": "Well ... I guess 1 is the loneliest number. You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": "Death awaits you! You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": "*Laughs in hero* You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": " ... an you killed my father. Prepare to die! You encountered an enemy.",
+        "moveCode": 2
+      },
+      {
+        "message": "Your family will mourn your mourning. You encountered an enemy.",
+        "moveCode": 2
+      }
+    ]
+  }

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c64b062b4b237847946538c581f4c86, type: 3}
+  m_Name: Ancient Ice Cities Ruins
+  m_EditorClassIdentifier: 
+  duration: 115
+  reactionTime: 7.5
+  dungeonName: Ancient Ice Cities Ruins
+  dungeonLevel: 1
+  dungeonAttributes: 0100000005000000
+  rewards:
+  - ingredient: {fileID: 11400000, guid: 7a0ca3d278bf340448123f4202e5b53f, type: 2}
+    dropChance: 0.5
+    minimumAmount: 5
+    maximumAmount: 18
+  - ingredient: {fileID: 11400000, guid: 8ec92664a31647a468ad2e2a063b10e9, type: 2}
+    dropChance: 0.58
+    minimumAmount: 10
+    maximumAmount: 21
+  - ingredient: {fileID: 11400000, guid: f6227b5743a88c6459eb80301b9b64e4, type: 2}
+    dropChance: 0.28
+    minimumAmount: 6
+    maximumAmount: 10
+  icon: {fileID: 21300000, guid: 495df3fde680a834e87947811f48790a, type: 3}

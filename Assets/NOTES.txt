@@ -1,0 +1,10 @@
+
+- Simulation Update
+- Random character generation moved out of Character.cs
+- Remove ingredients from inventory after use.
+- Move ingredients from character inventories to barista inventory
+    - need a barista inventory =p
+- Death: need to remove the character from the list!
+- Create and update Adventuring panel, should have the messages and show realtime
+  changes
+- Drag and drop ingredients for crafting
